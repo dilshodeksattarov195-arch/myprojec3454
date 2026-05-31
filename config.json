@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrender",
+        "uuid": 16983318,
+        "checksum": "igt4ss"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
